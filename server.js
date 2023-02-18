@@ -10,4 +10,3 @@ setTimeout(()=>{
     console.log(`Stopping server...`)
     server.close()
 },10000)
-let temp = 10;
